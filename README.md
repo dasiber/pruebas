@@ -1,3 +1,3 @@
 Hola, aqui tenemos un file
-pero hay que modificarlo
-hay que modificar las lienas
+Pero hay que modificarlo
+Hay que Modificar las lienas
